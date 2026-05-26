@@ -1,5 +1,90 @@
 # Changelog
 
+## v0.8.7 — 2026-05-26（🆕 Mode C 深度反思系列 + F20-F23 四變體 + R26-R29）
+
+5/22 + 5/25 共 4 篇 Mode C 範例，broke 鐵粉圈最高 94.5%（F23 Mode C 系列最強 10,022 觀眾 / 儲存 40）。Hao brand 解鎖第 4 種 funnel（Mode A 日常 / Mode B 純血 / **Mode C 深度反思** / Thread F19）。
+
+### 🆕 Mode C 深度反思 4 變體
+
+非 hype voice — 沒「殺瘋了」、沒「！！！」、沒攻擊性動詞。靠**故事 / 反命題 / 脆弱 confess / 行業洞察**驅動 viral。
+
+| F | 主題類型 | 5 月實證 | 廣度 |
+|---|---|---|---|
+| **F20 個人故事傳承** | 你被某 mentor 影響 | 403 觀眾 / 16% 非追蹤 | 鐵粉信任深化 |
+| **F21 Ship 答疑解構** | ship 後留言問怎麼用 | 1,058 / 24.7% | dev 圈 framework 儲存 |
+| **F22 工具發現 + 脆弱解套** | 新工具解決你長期卡點 | 5,850 / 91.5% | **broke 鐵粉圈廣 identity** |
+| **F23 行業洞察解構** 🏆 | 媒體寫了什麼但你不同意 | **10,022 / 94.5%** | **mega-viral broke + 儲存 40** |
+
+### 🆕 R26 ── 分隔符鐵則
+
+Mode C 長文型用 `── 段落標題 ──` 做視覺切分，比 paragraph break 更易掃讀。F23「一致性大戰」用 4 個 ── 分隔符 broke 94.5% 非追蹤。
+
+### 🆕 R27 個人脆弱 confess
+
+揭露真實卡點 / 焦慮 / 拖延（不是炫成就）= broke 鐵粉圈到 90%+。
+
+「我自己一直想 X，最大的卡點是 Y... 拖了大半年沒動」結構 = vulnerable + relatable + 普世議題 → identity 站隊廣度 5-10x。
+
+5/22 F22「YouTube 拖了大半年 / 出鏡焦慮」→ 91.5% 非追蹤。
+
+### 🆕 R28 行業反主流 framing
+
+反主流 + 趨勢預言 framework：
+- 「X 在 2026 已不是門檻，還拿這當賣點其實落伍」
+- 「X 大戰已打完，下一場是 Y 大戰」
+- 「不是 X，是 Y」reframing
+
+5/22 F23「一致性大戰已打完，下一場是工作流大戰」→ 10,022 觀眾 / 94.5% 非追蹤 / 儲存 40 = Mode C 系列最強。
+
+### 🆕 R29 Mode C 同日連發策略
+
+Mode C 同日 2 篇 OK，前提：
+1. 主題類別相關（同 niche）
+2. framing 角度互補（vulnerable vs insider / 故事 vs 解構）
+3. 不同 archetype 變體配對
+
+**5/22 vs 5/25 對照實證**：
+- 5/22 F22+F23 同 niche + 互補 framing → **雙篇 broke 91.5% / 94.5%**
+- 5/25 F20+F21 audience 分散 → 雙篇鎖鐵粉 16% / 24.7%
+
+**R1 細化**：
+- Mode B 純血 hype = 嚴格一天一篇（演算法判 spam）
+- Mode C 深度反思 = 同日 2 篇可行（同 niche + 不同 framing 互強）
+
+### Mode C 同日配對推薦表
+
+| 配對 | 預期 |
+|---|---|
+| F22 + F23 | ⭐⭐⭐⭐⭐ 互強雙 broke |
+| F22 + F21 同 niche | ⭐⭐⭐⭐ |
+| F23 + F21 同 niche | ⭐⭐⭐⭐ |
+| F21 + F20 分散 | ⭐⭐ 弱 |
+
+### Hao 完整 Mode 地圖
+
+| Mode | viral 機制 | 鐵粉/非追蹤 | 代表 |
+|---|---|---|---|
+| A 日常 | 鐵粉黏著 | 90%+ 鐵粉 | 短句吐槽 |
+| B 純血 | 擴散廣推 | 90%+ 非追蹤 | Day 1 / 5/5 |
+| **C 深度反思** 🆕 | 信任深化 + 儲存 trigger | **F23 94.5% 非追蹤** | F20/21/22/23 |
+| Thread F19 | Thread 轉發 | Thread 廣推 | 25/7 三篇 |
+
+### Cases 新增
+
+- Case 16 F20「消費不如生產」5/25 / Case 17 F21「AI 自動生影片」5/25
+- Case 18 F22「Google Flow self-avatar」5/22 / Case 19 F23「一致性大戰打完了」5/22
+- Case 20 同日連發效應對比（R29 推出依據）
+
+### Lessons learned
+
+1. **Mode C 同樣可達 Day 1 mega-viral 級** — 不只 Mode B 純血能爆
+2. **個人脆弱 confess > 炫成就** — 廣 identity 觸發 5-10x
+3. **行業反主流 framing** = Mode C 系列最強 archetype（F23 broke 94.5%）
+4. **── 分隔符**比 paragraph 更易掃讀 + 演算法 dwell 友好
+5. **同日連發 Mode C 配對選對**可雙篇 broke
+
+---
+
 ## v0.8.6 — 2026-05-19（🚨 R25 鐵則：FB / Threads 貼文絕不附外部連結）
 
 使用者 5/19 lock — AI 反覆把 GitHub 連結誤加進 viral 草稿，全部撤回 + 鎖死規則。
