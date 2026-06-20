@@ -1,6 +1,6 @@
 ---
 name: social-post
-description: 引導使用者從手機或桌面完成社群發文：先問主題/生活事件/圖片影片，再判斷發文公式、長度與平台，從 Obsidian 內容庫媒合至少 3 個方向，產出 FB / IG / Threads 文案，確認後協助排程、記錄到 Notion、追蹤 24 小時數據並累積受眾偏好。使用時機：使用者說「發文」、「幫我寫貼文」、「今天發一篇」、「PO 一下」、「用我的風格發」、「找內容庫搭配」、「排貼文」、「追蹤數據」、「review」時觸發。
+description: 本地別名「發文大師」。引導使用者從手機或桌面完成社群發文：先問主題/生活事件/圖片影片，再判斷發文公式、長度與平台，從 Obsidian 內容庫媒合至少 3 個方向，產出 FB / IG / Threads 文案，確認後協助排程、記錄到 Notion、追蹤 24 小時數據並累積受眾偏好。使用時機：使用者說「發文大師」、「請發文大師幫我發一篇文」、「發文」、「幫我寫貼文」、「今天發一篇」、「PO 一下」、「用我的風格發」、「找內容庫搭配」、「排貼文」、「追蹤數據」、「review」時觸發。
 ---
 
 <!--
@@ -12,15 +12,17 @@ description: 引導使用者從手機或桌面完成社群發文：先問主題/
   License: MIT — 保留此標註即可修改、使用、商用
 -->
 
-# social-post
+# social-post（本地別名：發文大師）
 
 三階段工作流 + Zenbu 手機引導工作流。**依使用者意圖路由，只讀必要 reference**（省 token）。
+
+當使用者提到「發文大師」，視為呼叫本 skill；例如「請發文大師幫我發一篇文」等同於「用 social-post 幫我發文」。
 
 ## 階段路由
 
 | 觸發 | 階段 | 讀 |
 |---|---|---|
-| 手機上說「發文 / 幫我想貼文 / 找內容庫搭配 / 排貼文」 | **Zenbu 引導** | `references/zenbu_mobile_workflow.md` + `references/formulas.md`（候選公式段）+ 目標平台 ref |
+| 手機上說「發文大師 / 發文 / 幫我想貼文 / 找內容庫搭配 / 排貼文」 | **Zenbu 引導** | `references/zenbu_mobile_workflow.md` + `references/formulas.md`（候選公式段）+ 目標平台 ref |
 | `style_profile.md` 不存在 / 說「重新學風格」 | **P1** | `references/learn_style.md` |
 | `content_plan.md` 不存在 / 說「重新規劃」「排新 14 天」 | **P0** | `references/phase0_plan.md` + `formulas.md` |
 | 說「發文」「今天發一篇」「PO」 | **P2** | `references/generate_and_publish.md` + `style_profile.md` + `content_plan.md` + `formulas.md`（目標公式段）+ `rules.md`（相關規則）+ 目標平台 ref |
